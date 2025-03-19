@@ -1,4 +1,4 @@
-import styles from './tip.module.css';
+import styles from './styles.module.css';
 import tipIcon from '../../assets/tip.svg';
 
 type Props = {
